@@ -16,7 +16,7 @@ node-wp-i18n started as the core of the [grunt-wp-i18n](https://github.com/cedar
 `node-wp-i18n` includes a basic CLI tool to help generate POT file or add text domains to i18n functions in WordPress plugins or themes. Installing this module globally will allow you to access the `wpi18n` command:
 
 ```sh
-npm install -g node-wp-i18n
+npm install -g https://github.com/buddyboss/node-wp-i18n
 ```
 
 Once installed, run this command from a plugin or theme to see the available options:
