@@ -1,5 +1,7 @@
 # node-wp-i18n [![Build Status](https://travis-ci.org/cedaro/node-wp-i18n.png?branch=develop)](https://travis-ci.org/cedaro/node-wp-i18n)
 
+> This Fork Contains PHP8 Support.
+
 > Internationalize WordPress plugins and themes.
 
 WordPress has a robust suite of tools to help internationalize plugins and themes. This plugin brings the power of those existing tools to Node.js in order to make it easy for you to automate the i18n process and make your projects more accessible to an international audience.
